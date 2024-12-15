@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blowfish</title>
+    <title>Tags on Shinyland</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Blowfish</description>
+    <description>Recent content in Tags on Shinyland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>diamondalonzo@gmail.com (Diamond White)</managingEditor>
+    <webMaster>diamondalonzo@gmail.com (Diamond White)</webMaster>
+    <copyright>© 2024 Diamond White</copyright>
+    <lastBuildDate>Wed, 11 Dec 2024 05:54:14 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>TastyFactory</title>
+      <link>http://localhost:1313/tags/tastyfactory/</link>
+      <pubDate>Wed, 11 Dec 2024 05:54:14 +0000</pubDate>
+      <author>diamondalonzo@gmail.com (Diamond White)</author>
+      <guid>http://localhost:1313/tags/tastyfactory/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
