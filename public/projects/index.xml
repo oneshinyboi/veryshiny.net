@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Shinyland</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://veryshiny.net/projects/</link>
     <description>Recent content in Projects on Shinyland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>diamondalonzo@gmail.com (Diamond White)</managingEditor>
     <webMaster>diamondalonzo@gmail.com (Diamond White)</webMaster>
     <copyright>© 2024 Diamond White</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 05:54:14 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Dec 2024 05:54:14 +0000</lastBuildDate><atom:link href="https://veryshiny.net/projects/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

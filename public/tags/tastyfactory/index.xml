@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TastyFactory on Shinyland</title>
-    <link>http://localhost:1313/tags/tastyfactory/</link>
+    <link>https://veryshiny.net/tags/tastyfactory/</link>
     <description>Recent content in TastyFactory on Shinyland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>diamondalonzo@gmail.com (Diamond White)</managingEditor>
     <webMaster>diamondalonzo@gmail.com (Diamond White)</webMaster>
     <copyright>© 2024 Diamond White</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 05:54:14 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tastyfactory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Dec 2024 05:54:14 +0000</lastBuildDate><atom:link href="https://veryshiny.net/tags/tastyfactory/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Game Design Document</title>
-      <link>http://localhost:1313/projects/tastyfactory/designdocument/</link>
+      <link>https://veryshiny.net/projects/tastyfactory/designdocument/</link>
       <pubDate>Wed, 11 Dec 2024 05:54:14 +0000</pubDate>
       <author>diamondalonzo@gmail.com (Diamond White)</author>
-      <guid>http://localhost:1313/projects/tastyfactory/designdocument/</guid>
+      <guid>https://veryshiny.net/projects/tastyfactory/designdocument/</guid>
       <description>What Is TastyFactory?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/tastyfactory/designdocument/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://veryshiny.net/projects/tastyfactory/designdocument/featured.png" />
     </item>
     
   </channel>
