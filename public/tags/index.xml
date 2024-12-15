@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shinyland</title>
-    <link>https://veryshiny.net/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Shinyland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>diamondalonzo@gmail.com (Diamond White)</managingEditor>
     <webMaster>diamondalonzo@gmail.com (Diamond White)</webMaster>
     <copyright>© 2024 Diamond White</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 05:54:14 +0000</lastBuildDate><atom:link href="https://veryshiny.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Dec 2024 05:54:14 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>TastyFactory</title>
-      <link>https://veryshiny.net/tags/tastyfactory/</link>
+      <link>http://localhost:1313/tags/tastyfactory/</link>
       <pubDate>Wed, 11 Dec 2024 05:54:14 +0000</pubDate>
       <author>diamondalonzo@gmail.com (Diamond White)</author>
-      <guid>https://veryshiny.net/tags/tastyfactory/</guid>
+      <guid>http://localhost:1313/tags/tastyfactory/</guid>
       <description></description>
       
     </item>
